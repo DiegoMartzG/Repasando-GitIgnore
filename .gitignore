@@ -1,5 +1,4 @@
 bin/*
-!bin/*
 config.json
 libs/**/node_modules
 src/**/*.class
